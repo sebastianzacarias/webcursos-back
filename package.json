@@ -5,7 +5,8 @@
   "author": "sebastianzacarias <87095453+sebastianzacarias@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index"
   },
   "dependencies": {
     "dotenv": "^16.3.1",
